@@ -30,7 +30,7 @@ We also implemented:
 - Similarity matrix computation using Gaussian kernel  
 - Degree matrix and normalized Laplacian  
 - Iterative update rule for optimizing \( H \)  
-- Convergence check with tolerance \( \epsilon = 1e-4 \) and max_iter = 300  
+- Convergence check with tolerance \( $\epsilon$ = 1e-4 \) and max_iter = 300  
 
 ---
 
